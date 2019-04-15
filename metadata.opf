@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Coquette</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Foster, Hannah Webster">Hannah Webster Foster</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">88a4c859-4a15-4397-8eda-b1c854716ea3</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.29.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Paul L. Hebert, The City University of New York</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">0bf4460a-ce1d-408c-ba4e-e914da9b3668</dc:identifier>
+    <meta content="{&quot;Hannah Webster Foster&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="Coquette, The"/>
+    <meta name="cover" content="id4"/>
+  </metadata>
+  <manifest>
+    <item href="start.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="title.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="copyright.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="note.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Letters1.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="letters2.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="letters3.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="letters4.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="letters5.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="letters6.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="leters7.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
+    <item href="style.css" id="id1" media-type="text/css"/>
+    <item href="cover.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="CUNY-imprint.jpg" id="id2" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="id11"/>
+    <itemref idref="id"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id6"/>
+    <itemref idref="id3"/>
+    <itemref idref="id5"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+  </spine>
+  <guide>
+    </guide>
+</package>

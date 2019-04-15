@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="88a4c859-4a15-4397-8eda-b1c854716ea3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.29.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Coquette</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>TITLE PAGE</text>
+      </navLabel>
+      <content src="title.html#titlepage"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>COPYRIGHT</text>
+      </navLabel>
+      <content src="copyright.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>NOTE ON THE TEXT</text>
+      </navLabel>
+      <content src="note.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>LETTER I.</text>
+      </navLabel>
+      <content src="Letters1.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>LETTER II.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>LETTER III.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>LETTER IV.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_6"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>LETTER V.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_8"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>LETTER VI.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_10"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>LETTER VII.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_12"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>LETTER VIII.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_14"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>LETTER IX.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_16"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>LETTER X.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_18"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>LETTER XI.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_20"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>LETTER XII.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_22"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>LETTER XIII.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_24"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>LETTER XIV.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_26"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>LETTER XV.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_28"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>LETTER XVI.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_30"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>LETTER XVII.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_32"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>LETTER XVIII.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_34"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>LETTER XIX.</text>
+      </navLabel>
+      <content src="Letters1.html#toc_36"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>LETTER XX.</text>
+      </navLabel>
+      <content src="letters2.html"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>LETTER XXI.</text>
+      </navLabel>
+      <content src="letters2.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>LETTER XXII.</text>
+      </navLabel>
+      <content src="letters2.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>LETTER XXIII.</text>
+      </navLabel>
+      <content src="letters2.html#toc_6"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>LETTER XXIV.</text>
+      </navLabel>
+      <content src="letters2.html#toc_8"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>LETTER XXV.</text>
+      </navLabel>
+      <content src="letters2.html#toc_10"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>LETTER XXVI.</text>
+      </navLabel>
+      <content src="letters2.html#toc_12"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>LETTER XXVII.</text>
+      </navLabel>
+      <content src="letters2.html#toc_14"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>LETTER XXVIII.</text>
+      </navLabel>
+      <content src="letters2.html#toc_16"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>LETTER XXIX.</text>
+      </navLabel>
+      <content src="letters2.html#toc_18"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>LETTER XXX.</text>
+      </navLabel>
+      <content src="letters3.html"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>LETTER XXXI.</text>
+      </navLabel>
+      <content src="letters3.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>LETTER XXXII.</text>
+      </navLabel>
+      <content src="letters3.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>LETTER XXXIII.</text>
+      </navLabel>
+      <content src="letters3.html#toc_6"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>LETTER XXXIV.</text>
+      </navLabel>
+      <content src="letters3.html#toc_8"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>LETTER XXXV.</text>
+      </navLabel>
+      <content src="letters3.html#toc_10"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>LETTER XXXVI.</text>
+      </navLabel>
+      <content src="letters3.html#toc_12"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>LETTER XXXVII</text>
+      </navLabel>
+      <content src="letters3.html#toc_14"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>LETTER XXXVIII.</text>
+      </navLabel>
+      <content src="letters3.html#toc_16"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>LETTER XXXIX.</text>
+      </navLabel>
+      <content src="letters3.html#toc_18"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>LETTER XL</text>
+      </navLabel>
+      <content src="letters4.html"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>LETTER XLI.</text>
+      </navLabel>
+      <content src="letters4.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>LETTER XLII.</text>
+      </navLabel>
+      <content src="letters4.html#toc_6"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>LETTER XLIII.</text>
+      </navLabel>
+      <content src="letters4.html#toc_8"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>LETTER XLIV.</text>
+      </navLabel>
+      <content src="letters4.html#toc_10"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>LETTER XLV.</text>
+      </navLabel>
+      <content src="letters4.html#toc_12"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>LETTER XLVI.</text>
+      </navLabel>
+      <content src="letters4.html#toc_14"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>LETTER XLVII.</text>
+      </navLabel>
+      <content src="letters4.html#toc_16"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>LETTER XLVIII.</text>
+      </navLabel>
+      <content src="letters4.html#toc_18"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52">
+      <navLabel>
+        <text>LETTER XLIX.</text>
+      </navLabel>
+      <content src="letters4.html#toc_20"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53">
+      <navLabel>
+        <text>LETTER L.</text>
+      </navLabel>
+      <content src="letters5.html"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>LETTER LI.</text>
+      </navLabel>
+      <content src="letters5.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55">
+      <navLabel>
+        <text>LETTER LII.</text>
+      </navLabel>
+      <content src="letters5.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_56" playOrder="56">
+      <navLabel>
+        <text>LETTER LIII.</text>
+      </navLabel>
+      <content src="letters5.html#toc_6"/>
+    </navPoint>
+    <navPoint id="num_57" playOrder="57">
+      <navLabel>
+        <text>LETTER LIV.</text>
+      </navLabel>
+      <content src="letters5.html#toc_8"/>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>LETTER LV.</text>
+      </navLabel>
+      <content src="letters5.html#toc_10"/>
+    </navPoint>
+    <navPoint id="num_59" playOrder="59">
+      <navLabel>
+        <text>LETTER LVI.</text>
+      </navLabel>
+      <content src="letters5.html#toc_12"/>
+    </navPoint>
+    <navPoint id="num_60" playOrder="60">
+      <navLabel>
+        <text>LETTER LVII.</text>
+      </navLabel>
+      <content src="letters5.html#toc_14"/>
+    </navPoint>
+    <navPoint id="num_61" playOrder="61">
+      <navLabel>
+        <text>LETTER LVIII.</text>
+      </navLabel>
+      <content src="letters5.html#toc_16"/>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>LETTER LIX.</text>
+      </navLabel>
+      <content src="letters5.html#toc_18"/>
+    </navPoint>
+    <navPoint id="num_63" playOrder="63">
+      <navLabel>
+        <text>LETTER LX.</text>
+      </navLabel>
+      <content src="letters6.html"/>
+    </navPoint>
+    <navPoint id="num_64" playOrder="64">
+      <navLabel>
+        <text>LETTER LXI.</text>
+      </navLabel>
+      <content src="letters6.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_65" playOrder="65">
+      <navLabel>
+        <text>LETTER LXII.</text>
+      </navLabel>
+      <content src="letters6.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_66" playOrder="66">
+      <navLabel>
+        <text>LETTER LXIII.</text>
+      </navLabel>
+      <content src="letters6.html#toc_6"/>
+    </navPoint>
+    <navPoint id="num_67" playOrder="67">
+      <navLabel>
+        <text>LETTER LXIV.</text>
+      </navLabel>
+      <content src="letters6.html#toc_8"/>
+    </navPoint>
+    <navPoint id="num_68" playOrder="68">
+      <navLabel>
+        <text>LETTER LXV.</text>
+      </navLabel>
+      <content src="letters6.html#toc_10"/>
+    </navPoint>
+    <navPoint id="num_69" playOrder="69">
+      <navLabel>
+        <text>LETTER LXVI.</text>
+      </navLabel>
+      <content src="letters6.html#toc_12"/>
+    </navPoint>
+    <navPoint id="num_70" playOrder="70">
+      <navLabel>
+        <text>LETTER LXVII.</text>
+      </navLabel>
+      <content src="letters6.html#toc_14"/>
+    </navPoint>
+    <navPoint id="num_71" playOrder="71">
+      <navLabel>
+        <text>LETTER LXVIII.</text>
+      </navLabel>
+      <content src="letters6.html#toc_16"/>
+    </navPoint>
+    <navPoint id="num_72" playOrder="72">
+      <navLabel>
+        <text>LETTER LXIX.</text>
+      </navLabel>
+      <content src="letters6.html#toc_18"/>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>LETTER LXX.</text>
+      </navLabel>
+      <content src="leters7.html"/>
+    </navPoint>
+    <navPoint id="num_74" playOrder="74">
+      <navLabel>
+        <text>LETTER LXXI.</text>
+      </navLabel>
+      <content src="leters7.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_75" playOrder="75">
+      <navLabel>
+        <text>LETTER LXXII.</text>
+      </navLabel>
+      <content src="leters7.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>LETTER LXXIII.</text>
+      </navLabel>
+      <content src="leters7.html#toc_6"/>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>LETTER LXXIV.</text>
+      </navLabel>
+      <content src="leters7.html#toc_8"/>
+    </navPoint>
+  </navMap>
+</ncx>
