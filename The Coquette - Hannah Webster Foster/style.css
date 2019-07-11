@@ -427,17 +427,19 @@ blockquote,
 .letter { margin:1em!important; }
 .inscription, .epitaph {
 	font-variant:small-caps;
-	border-style: double;
-	border-width: .35em;
+	border: .3em double;
+	border-radius: 50em 50em 3em 3em;
 	padding: 1.5em;
 	margin:1em auto;
 	text-align:center!important;
 	width: 75%;
 }
 .inscription p, .epitaph p {
+	font-size: 115%;
 	margin:0;
 	text-align:center!important;
 	text-indent:0;
+	font-variant: small-caps;
 }
 .notice {
 	margin:1em auto;
